@@ -1,0 +1,26 @@
+﻿{
+  "format_version": 1,
+  "header": {
+    "description": "§f| §cConsistent Bundles§e 1.0§f\n§3LorenzoF06§f",
+    "name": "Consistent Bundles",
+    "platform_locked": false,
+    "uuid": "fa509123-cb1b-478a-a3ac-9d2a04c240a4",
+    "min_engine_version": "1.21.40",
+    "version": [ 1, 0, 0 ]
+  },
+  "metadata": [
+    {
+      "authors": "Lorenzo Federici",
+      "license": "CC-BY-4.0",
+      "url": "https://github.com/LorenzoF06/ConsistentBundles"
+    }
+  ],
+  "modules": [
+    {
+      "description": "§f| §cConsistent Bundles§e 1.0§f\n§3LorenzoF06§f",
+      "type": "resources",
+      "uuid": "9331e248-1867-43ff-b18d-88cf2c2d82d7",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
